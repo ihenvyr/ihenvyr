@@ -2,7 +2,7 @@
 
  🔭 I’m currently working on ...React.js
  
- 🌱 I’m currently learning ...Javascript mental model
+ 🌱 I’m currently learning ...Typescript
  
  👯 I’m looking to collaborate on ...React.js
  
