@@ -26,8 +26,8 @@
  ## Production / Side-Projects
  
  * React / Typescript / Ruby on Rails / NodeJS [Hashtagify](https://hashtagify.me)
- * Flutter app [TPC Sales Management](https://play.google.com/store/apps/details?id=com.ihenvyr.tpc_app)
- * Flutter app [Nutrition Facts](https://github.com/ihenvyr/ihenvyr/edit/main/README.md#) *WIP*
+ * Flutter [TPC Sales Management](https://play.google.com/store/apps/details?id=com.ihenvyr.tpc_app) Android App
+ * Flutter [Nutrition Facts](https://github.com/ihenvyr/ihenvyr/edit/main/README.md#) Android App *WIP*
  * React / NodeJS [PotoPrint](https://potoprint.ihenvyr.com/)
  * Vue.js / CSS / HTML [Monaka Responsive Menu](https://codecanyon.net/item/monaka-responsive-menu/25551352)
  * React [Loki Pricing Table Generator](https://codecanyon.net/item/loki-pricing-table-generator/22536551)
