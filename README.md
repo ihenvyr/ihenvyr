@@ -2,7 +2,7 @@
  
  I am a software developer. Currently I am helping Cybranding Ltd. manage features and pages of their website.
  
- Most of what I do revolves around Javascript and Dart, but that doesn't mean I am less open to other tech stacks. Nowadays I spend most of my time doing front-end and app development, mostly with Flutter, React and its ecosystem.
+ Most of what I do revolves around Javascript and Dart, but that doesn't mean I am less open to other tech stacks. Nowadays I spend most of my time doing front-end and android app development, mostly with Flutter, React and its ecosystem.
  
  If you want to reach out for anything, you can find me at the **@ihenvyr** handle, or e-mail me at ihenvyr@gmail.com.
  
