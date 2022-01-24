@@ -17,7 +17,7 @@
  
  **Front-end Developer, Cybranding Ltd** | *Dec / 2013  - Present*
  
- Maintains and creates new feauters for the SaaS app using Ruby on Rails and React. Setup and manage Node.js background workers.
+ Maintains and creates new feauters for the SaaS app [Hashtagify](https://hashtagify.me/) using Ruby on Rails and React. Setup and manage Node.js background workers.
  
  **Web Developer, Osomnimedia Web Design Studio** | *Nov / 2008 - Sept / 2013*
  
