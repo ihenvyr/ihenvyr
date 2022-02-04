@@ -1,4 +1,4 @@
- I am a software developer. Currently I am helping Cybranding Ltd. manage features and pages of their website.
+ Hi! I'm Henry a software developer. Currently I am helping Cybranding Ltd. manage features and pages of their website.
  
  Most of what I do revolves around Javascript and Dart, but that doesn't mean I am less open to other tech stacks. Nowadays I spend most of my time doing front-end and android app development, mostly with Flutter, React and its ecosystem.
  
@@ -13,6 +13,8 @@
 
  ![](https://github.com/ihenvyr/github-stats/blob/master/generated/overview.svg)
  ![](https://github.com/ihenvyr/github-stats/blob/master/generated/languages.svg)
+ 
+ ![](https://komarev.com/ghpvc/?username=ihenvyr&color=blue)
  
  ## Professional Experience
  
