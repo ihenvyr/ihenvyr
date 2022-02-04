@@ -14,7 +14,7 @@
  ![](https://github.com/ihenvyr/github-stats/blob/master/generated/overview.svg)
  ![](https://github.com/ihenvyr/github-stats/blob/master/generated/languages.svg)
  
- ![](https://komarev.com/ghpvc/?username=ihenvyr&color=blue)
+ <!--![](https://komarev.com/ghpvc/?username=ihenvyr&color=blue)-->
  
  ## Professional Experience
  
