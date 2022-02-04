@@ -12,6 +12,9 @@
  * 🔭 I’m currently working on *React.js* and *Flutter*
  * 🌱 I’m currently learning *Typescript*
  * 👯 I’m looking to collaborate on *React.js and Flutter*
+
+ ![](https://github.com/ihenvyr/github-stats/blob/master/generated/overview.svg)
+ ![](https://github.com/ihenvyr/github-stats/blob/master/generated/languages.svg)
  
  ## Professional Experience
  
