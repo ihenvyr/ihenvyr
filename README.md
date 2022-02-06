@@ -41,13 +41,13 @@
  
  B.Sc. in Marine Transportation, DMMACSP of Davao City | *1999 - 2002*
  
- ## Technical Skills
+ <!--## Technical Skills
  
  * React
  * Node.js
  * Javascript
  * Flutter
- * Ruby on Rails
+ * Ruby on Rails-->
  
 <!-- 🤔 I’m looking for help with ...-->
  
