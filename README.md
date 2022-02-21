@@ -47,7 +47,6 @@
  
  * React
  * Node.js
- * Javascript
  * Flutter
  * Ruby on Rails
  * Docker
