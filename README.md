@@ -38,6 +38,7 @@
  * Flutter [React.js Interview Questions](https://play.google.com/store/apps/details?id=com.ihenvyr.reactjs_interview_questions_app) Android App
  * Flutter [Javascript Interview Questions](https://play.google.com/store/apps/details?id=com.ihenvyr.javascript_interview_questions_app) Android App
  * Flutter [Vue.js Interview Questions](https://play.google.com/store/apps/details?id=com.ihenvyr.viewjs_interview_questions_app) Android App
+ * Flutter [Angular Interview Questions](https://play.google.com/store/apps/details?id=com.ihenvyr.angular_interview_questions_app) Android App
 
 <!--* React Module (Open Source) [react-styled-grid](https://www.npmjs.com/package/react-styled-grid)-->
 
