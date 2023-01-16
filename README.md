@@ -31,7 +31,7 @@
 <!--  * React / Typescript / Ruby on Rails / NodeJS [Hashtagify](https://hashtagify.me) -->
  * Vue.js / CSS / HTML [Monaka Responsive Menu](https://codecanyon.net/item/monaka-responsive-menu/25551352)
  * React [Loki Pricing Table Generator](https://codecanyon.net/item/loki-pricing-table-generator/22536551)
- * React [Loki Header Menu Generator](https://codecanyon.net/item/loki-header-menu-generator/22839687)
+ <!--* React [Loki Header Menu Generator](https://codecanyon.net/item/loki-header-menu-generator/22839687)-->
  * React / NodeJS [PotoPrint](https://potoprint.ihenvyr.com/)
  * Flutter [TPC Sales Management](https://play.google.com/store/apps/details?id=com.ihenvyr.tpc_app) Android App
  * Flutter [TPC Product Codes](https://play.google.com/store/apps/details?id=com.ihenvyr.tpc_product_codes_app) Android App
