@@ -1,6 +1,4 @@
- Hi! I'm Henry a software developer. Currently I am helping Cybranding Ltd. manage features and pages of their website<!--[hashtagify.me](https://hashtagify.me/)-->.
- 
- Most of what I do revolves around Javascript and Dart, but that doesn't mean I am less open to other tech stacks. Nowadays I spend most of my time doing front-end and android app development, mostly with Flutter, React and its ecosystem.
+ Hi! I'm Henry a software developer. Most of what I do revolves around Javascript and Dart, but that doesn't mean I am less open to other tech stacks. Nowadays I spend most of my time doing front-end and android app development, mostly with Flutter, React and its ecosystem.
  
  <!--If you want to reach out for anything, you can find me at the **@ihenvyr** handle, or e-mail me at ihenvyr@gmail.com.-->
  
@@ -18,7 +16,9 @@
  
  ## Professional Experience
  
- **Front-end Developer, Cybranding Ltd** | *Dec / 2013  - Present*
+ **Front-end Developer, OnlineJobs** | *Feb / 2023  - Present*
+ 
+ **Front-end Developer, Cybranding Ltd** | *Dec / 2013  - Jan / 2023*
  
  Maintains and creates new feauters for the SaaS app using Ruby on Rails and React. Setup and manage Node.js background workers.
  
