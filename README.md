@@ -18,11 +18,11 @@
  
  **Front-end Developer, OnlineJobs** | *Feb / 2023  - Present*
  
- **Front-end Developer, Cybranding Ltd** | *Dec / 2013  - Jan / 2023*
+ **Front-end Developer, Cybranding Ltd** | *Dec / 2013  - Jan / 2023 (9 years)*
  
  Maintains and creates new feauters for the SaaS app using Ruby on Rails and React. Setup and manage Node.js background workers.
  
- **Web Developer, Osomnimedia Web Design Studio** | *Nov / 2008 - Sept / 2013*
+ **Web Developer, Osomnimedia Web Design Studio** | *Nov / 2008 - Sept / 2013 (4 years)*
  
  Develop various features and integrations for the ShopSite platform (front-end and product search optimization) and manage product banners and inventory.
  
