@@ -48,7 +48,7 @@
  
  ## Technical Skills
  
- * React
+ * Next.js
  * Node.js
  * Flutter
  * Ruby on Rails
