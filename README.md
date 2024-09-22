@@ -1,4 +1,4 @@
- Hi! I'm Henry a software developer. Most of what I do revolves around Javascript and Dart, but that doesn't mean I am less open to other tech stacks. Nowadays I spend most of my time doing front-end and android app development, mostly with Flutter, React and its ecosystem.
+ Hi! I'm Henry a software developer. Most of what I do revolves around Javascript and Dart, but that doesn't mean I am less open to other tech stacks. Nowadays I spend most of my time doing front-end and android app development, mostly with React, Flutter and its ecosystem.
  
  <!--If you want to reach out for anything, you can find me at the **@ihenvyr** handle, or e-mail me at ihenvyr@gmail.com.-->
  
@@ -29,16 +29,12 @@
  ## Personal Projects
  
 <!--  * React / Typescript / Ruby on Rails / NodeJS [Hashtagify](https://hashtagify.me) -->
- * Vue.js / CSS / HTML [Monaka Responsive Menu](https://preview.codecanyon.net/item/monaka-responsive-menu/full_screen_preview/25551352)
- * React [Loki Pricing Table Generator](https://preview.codecanyon.net/item/loki-pricing-table-generator/full_screen_preview/22536551)<!--* React [Loki Header Menu Generator](https://codecanyon.net/item/loki-header-menu-generator/22839687)--><!-- * React / NodeJS [PotoPrint](https://potoprint.ihenvyr.com/) -->
- * Flutter [TPC Sales Management](https://play.google.com/store/apps/details?id=com.ihenvyr.tpc_app) Android App
- * Flutter [TPC Product E-Loader](https://play.google.com/store/apps/details?id=com.ihenvyr.tpc_product_codes_app) Android App
- * Flutter [Nutrition Facts](https://play.google.com/store/apps/details?id=com.ihenvyr.nutrition_facts_app) Android App
- * Flutter [TJ Karaoke Songbook](https://play.google.com/store/apps/details?id=com.ihenvyr.tj_karaoke_songbook_app) Android App
-<!--  * Flutter [React.js Interview Questions](https://play.google.com/store/apps/details?id=com.ihenvyr.reactjs_interview_questions_app) Android App -->
-<!--  * Flutter [Javascript Interview Questions](https://play.google.com/store/apps/details?id=com.ihenvyr.javascript_interview_questions_app) Android App -->
-<!--  * Flutter [Vue.js Interview Questions](https://play.google.com/store/apps/details?id=com.ihenvyr.viewjs_interview_questions_app) Android App -->
-<!--  * Flutter [Angular Interview Questions](https://play.google.com/store/apps/details?id=com.ihenvyr.angular_interview_questions_app) Android App -->
+ * Vue.js / CSS / HTML - [Monaka Responsive Menu](https://preview.codecanyon.net/item/monaka-responsive-menu/full_screen_preview/25551352)
+ * React - [Loki Pricing Table Generator](https://preview.codecanyon.net/item/loki-pricing-table-generator/full_screen_preview/22536551)<!--* React [Loki Header Menu Generator](https://codecanyon.net/item/loki-header-menu-generator/22839687)--><!-- * React / NodeJS [PotoPrint](https://potoprint.ihenvyr.com/) --><!--* Flutter [TPC Sales Management](https://play.google.com/store/apps/details?id=com.ihenvyr.tpc_app) Android App -->
+ * Flutter - [TPC Product E-Loader](https://play.google.com/store/apps/details?id=com.ihenvyr.tpc_product_codes_app)
+ * Flutter - [Nutrition Facts](https://play.google.com/store/apps/details?id=com.ihenvyr.nutrition_facts_app)
+ * Flutter - [Platinum Karaoke Songbook](https://play.google.com/store/apps/details?id=com.ihenvyr.platinum_karaoke_songbook_app)
+ * Flutter - [TJ Karaoke Songbook](https://play.google.com/store/apps/details?id=com.ihenvyr.tj_karaoke_songbook_app)
 
 <!--* React Module (Open Source) [react-styled-grid](https://www.npmjs.com/package/react-styled-grid)-->
 
@@ -50,8 +46,7 @@
  
  * Next.js
  * Node.js
- * Flutter
- * Ruby on Rails
+ * Flutter<!--* Ruby on Rails-->
  * Docker
  
 <!-- 🤔 I’m looking for help with ...-->
