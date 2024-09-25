@@ -27,14 +27,10 @@
  Develop various features and integrations for the ShopSite platform (front-end and product search optimization) and manage product banners and inventory.
  
  ## Personal Projects
- 
-<!--  * React / Typescript / Ruby on Rails / NodeJS [Hashtagify](https://hashtagify.me) -->
- * Vue.js / CSS / HTML - [Monaka Responsive Menu](https://preview.codecanyon.net/item/monaka-responsive-menu/full_screen_preview/25551352)
- * React - [Loki Pricing Table Generator](https://preview.codecanyon.net/item/loki-pricing-table-generator/full_screen_preview/22536551)<!--* React [Loki Header Menu Generator](https://codecanyon.net/item/loki-header-menu-generator/22839687)--><!-- * React / NodeJS [PotoPrint](https://potoprint.ihenvyr.com/) --><!--* Flutter [TPC Sales Management](https://play.google.com/store/apps/details?id=com.ihenvyr.tpc_app) Android App -->
  * Flutter - [TPC Product E-Loader](https://play.google.com/store/apps/details?id=com.ihenvyr.tpc_product_codes_app)
- * Flutter - [Nutrition Facts](https://play.google.com/store/apps/details?id=com.ihenvyr.nutrition_facts_app)
  * Flutter - [Platinum Karaoke Songbook](https://play.google.com/store/apps/details?id=com.ihenvyr.platinum_karaoke_songbook_app)
  * Flutter - [TJ Karaoke Songbook](https://play.google.com/store/apps/details?id=com.ihenvyr.tj_karaoke_songbook_app)
+ * Flutter - [Nutrition Facts](https://play.google.com/store/apps/details?id=com.ihenvyr.nutrition_facts_app)
 
 <!--* React Module (Open Source) [react-styled-grid](https://www.npmjs.com/package/react-styled-grid)-->
 
