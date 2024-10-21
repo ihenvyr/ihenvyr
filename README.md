@@ -20,7 +20,7 @@
  
  **Front-end Developer, Cybranding Ltd** | *Dec / 2013  - Jan / 2023 (9 years)*
  
- Maintains and creates new feauters for the SaaS app using Ruby on Rails and React. Setup and manage Node.js background workers.
+ Maintain and create new features of the Ruby on Rails app with React. Setup and manage Node.js background workers.
  
  **Web Developer, Osomnimedia Web Design Studio** | *Nov / 2008 - Sept / 2013 (4 years)*
  
