@@ -30,7 +30,6 @@
  * Flutter - [TPC Product E-Loader](https://play.google.com/store/apps/details?id=com.ihenvyr.tpc_product_codes_app)
  * Flutter - [Platinum Karaoke Songbook](https://play.google.com/store/apps/details?id=com.ihenvyr.platinum_karaoke_songbook_app)
  * Flutter - [TJ Karaoke Songbook](https://play.google.com/store/apps/details?id=com.ihenvyr.tj_karaoke_songbook_app)
- * Flutter - [Nutrition Facts](https://play.google.com/store/apps/details?id=com.ihenvyr.nutrition_facts_app)
 
 <!--* React Module (Open Source) [react-styled-grid](https://www.npmjs.com/package/react-styled-grid)-->
 
